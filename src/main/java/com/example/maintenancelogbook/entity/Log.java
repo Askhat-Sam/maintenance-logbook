@@ -2,7 +2,7 @@ package com.example.maintenancelogbook.entity;
 
 import java.util.Date;
 
-public class log {
+public class Log {
     private long id;
     private Date date;
     private String aircraft;
